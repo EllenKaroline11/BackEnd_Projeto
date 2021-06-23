@@ -1,0 +1,5 @@
+INSERT INTO TB_ALUNO (name) VALUES ('Aluno 1');
+INSERT INTO TB_ALUNO (name) VALUES ('Aluno 2');
+INSERT INTO TB_ALUNO (name) VALUES ('Aluno 3');
+INSERT INTO TB_ALUNO (name) VALUES ('Aluno 4');
+INSERT INTO TB_ALUNO (name) VALUES ('Aluno 5');
